@@ -1,6 +1,7 @@
 #### Jeevika Setu
 
-Platform to attend courses on how to start micro enterprises. Steps:
+Platform to attend courses on how to start micro enterprises.
+Educates people on:
 1. Required items for the course (and potential investment required)
 2. Course work to develop skills for a particular trade
 3. Show workshops on the trade skill happening nearby
