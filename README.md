@@ -10,9 +10,9 @@ Platform to attend courses on how to start micro enterprises. Steps:
 
 
 Directories - 
-client - flutter app
-server - nestjs app
-infra - aws infra setup details
-analytics - metabase setup
-admin - marmelab based admin portal
-util - utility scripts
+- client - flutter app
+- server - nestjs app
+- infra - aws infra setup details
+- analytics - metabase setup
+- admin - marmelab based admin portal
+- util - utility scripts
